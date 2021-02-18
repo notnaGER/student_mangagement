@@ -7,3 +7,4 @@ change role: https://stackoverflow.com/questions/44051059/how-do-you-change-a-us
 DTP for eclipse: https://www.eclipse.org/datatools/downloads.php   1.13
 install help>install new software and add local archive
 
+create connection in eclipse: https://www.admfactory.com/configure-database-connection-in-eclipse/

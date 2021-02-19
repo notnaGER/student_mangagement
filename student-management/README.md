@@ -8,3 +8,12 @@ DTP for eclipse: https://www.eclipse.org/datatools/downloads.php   1.13
 install help>install new software and add local archive
 
 create connection in eclipse: https://www.admfactory.com/configure-database-connection-in-eclipse/
+
+sql statements in eclipse: https://www.eclipse.org/forums/index.php/t/5980/
+
+TCP/IP Monitor or use postman:
+http://www.avajava.com/tutorials/lessons/how-do-i-monitor-http-communication-in-eclipse.html
+https://www.codejava.net/ides/eclipse/monitoring-http-requests-and-responses-using-tcpip-monitor-in-eclipse
+
+POSTMAN!!
+
